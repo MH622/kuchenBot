@@ -4,11 +4,8 @@ random map
 - maps ziehen
 - bombe / hostage
 - rank / scrimmage
+- official rotation
 - per emotes selectieren und per check-emote bestätigen
-
-
-
-
 
 
 # reddit 
